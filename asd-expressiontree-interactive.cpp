@@ -1,3 +1,5 @@
+//NGETEST GIT DI UBUNTU AJA SI
+
 #include <iostream>
 #include <string>
 #include <stack>
